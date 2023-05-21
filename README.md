@@ -1,3 +1,3 @@
 # Demo 2
 
-Text
+Open index.html in browser
